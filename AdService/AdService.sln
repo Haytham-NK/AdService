@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdService", "AdService.csproj", "{382F6A02-48BD-657E-AC0E-720CD5C4E512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdService.Tests", "..\AdService.Tests\AdService.Tests.csproj", "{22DDAACF-7280-54DA-1A67-B559985C4143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{382F6A02-48BD-657E-AC0E-720CD5C4E512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382F6A02-48BD-657E-AC0E-720CD5C4E512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382F6A02-48BD-657E-AC0E-720CD5C4E512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382F6A02-48BD-657E-AC0E-720CD5C4E512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DDAACF-7280-54DA-1A67-B559985C4143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DDAACF-7280-54DA-1A67-B559985C4143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DDAACF-7280-54DA-1A67-B559985C4143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DDAACF-7280-54DA-1A67-B559985C4143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C33D9D-14F1-4597-AFC2-00DC9715987E}
+	EndGlobalSection
+EndGlobal
